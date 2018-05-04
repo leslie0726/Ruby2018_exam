@@ -1,0 +1,14 @@
+body{
+    background: #F6F3EE;
+}
+.navBar{
+    background: #EC5617;
+}
+.pic{
+    max-width: 200px;
+    height: auto;
+}
+.footer{
+    margin-left: auto;
+    margin-right: auto;
+}
